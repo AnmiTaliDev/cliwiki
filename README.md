@@ -3,7 +3,7 @@ CLI Search in Wikipedia
 
 **Dependencies**
 ``` sh
-gcc
+g++ (gcc)
 make
 xdg-utils
 ```
