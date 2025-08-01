@@ -1,5 +1,5 @@
 all:
-	@g++ main.cpp -o cswiki
+	@g++ src/main.cpp -o cswiki
 
 install: all
 	@sudo cp cswiki /usr/bin/
