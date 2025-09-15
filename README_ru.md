@@ -56,7 +56,7 @@ brew install meson curl jsoncpp
 ### Сборка из исходного кода
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/your-username/cliwiki.git
+   git clone https://github.com/AnmiTaliDev/cliwiki.git
    cd cliwiki
    ```
 2. **Настройте сборку:**
