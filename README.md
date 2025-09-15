@@ -63,7 +63,7 @@ brew install meson curl jsoncpp
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/cliwiki.git
+   git clone https://github.com/AnmiTaliDev/cliwiki.git
    cd cliwiki
    ```
 
@@ -168,3 +168,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ---
 
 *Made with ❤️ for the command line enthusiasts*
+
